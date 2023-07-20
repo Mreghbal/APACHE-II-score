@@ -44,8 +44,8 @@ To run the code and calculate the APACHE II score:
 ## Follow Me
 If you find this code useful or have any questions, feel free to follow me on LinkedIn and Twitter for more updates and resources:
 
-LinkedIn: [Reza Eghbal](https://linkedin.com/mreghbal)
+LinkedIn: [Reza Eghbal](https://www.linkedin.com/in/mreghbal)
 
-Twitter: [Reza Eghbal](https://twitter.com/r__egh)
+Twitter: [Reza Eghbal](https://twitter.com/mreghbal)
 
 Thank you for using this APACHE II score calculator!
