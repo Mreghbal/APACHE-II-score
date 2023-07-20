@@ -58,3 +58,12 @@ To run the code and calculate the APACHE II score:
 4. Run the following command: `python apache_ii_score.py`
 5. Follow the prompts enter the patient's information as requested.
 6. After providing all the required information, the calculated APACHE II score will be displayed on the screen.
+
+## Follow Me on LinkedIn and Twitter<a name="follow-me-on-linkedin-and-twitter"></a>
+If you find this code useful or have any questions, feel free to connect with me on LinkedIn and follow me on Twitter for more updates and discussions related to healthcare and technology.
+
+LinkedIn: [Reza Eghbal](https://linkedin.com/in/mreghbal)
+
+Twitter: [Reza Eghbal](https://twitter.com/r__egh)
+
+Thank you for using the Glasgow-Blatchford Bleeding Score Calculator!
